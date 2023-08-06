@@ -1,4 +1,4 @@
-#Trabalho feito por: André Quintela, Guilherme Ambrozio e Jonathan Barroso
+
 
 inicializador = True
 nomes_linhas = ["Bloco A", "Bloco B", "Bloco C", "Bloco D", "Bloco E",
@@ -143,7 +143,7 @@ while inicializador:
                 print("Responda só com S ou N")
                 input("Aperte ENTER para voltar ao menu ")
         case "6":
-            print("Autores do código:\nAndré😤\nJonathan da nova geração🙄\nGuilherme😱")
+            print("Autor do código:\nAndré😤")
             input("Aperte ENTER para voltar ao menu ")
         case _:
             print("Digite uma opção válida 🤞")
